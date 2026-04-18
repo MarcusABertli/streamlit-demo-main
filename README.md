@@ -1,2 +1,2 @@
-# streamlit-demo-main
-Streamlit web app for ML model prediction with interactive UI
+# streamlit-demo
+A demo repository for streamlit deployment
